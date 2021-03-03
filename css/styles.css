@@ -1,0 +1,35 @@
+body {
+    font-family: "Lucida Sans";
+    margin: 15px;
+  }
+  
+  h1 {
+    text-align: center;
+  }
+
+  div {
+      color: blue;
+  }
+
+  #comments-title {
+    font-size: 28px;
+  }
+
+  #comments-title:first-letter {
+    font-size: 60px;
+  }
+
+  li:hover {
+    cursor:pointer
+  }
+
+  li.super-cool {
+    border-color: red;
+    border-width: 2px;
+    border-style: solid;
+  }
+
+  div > p {
+    color: yellow;
+  }
+
