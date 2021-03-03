@@ -15,7 +15,7 @@ body {
     font-size: 28px;
   }
 
-  #comments-title:first-letter {
+  #comments-title::first-letter {
     font-size: 60px;
   }
 
